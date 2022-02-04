@@ -3,5 +3,5 @@
 ![vanilla javascript color generator screenshot](screenshot.png)
 
 ```
-npx serve
+npx serve website
 ```
